@@ -1,0 +1,66 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/smart-forms.css
+SHA1-Digest: t6kbXmM9NsUh9RFRTo2wfzPlJ2o=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 7k0R15Eowd7viwJeIN6gaJ1z0j0=
+
+Name: assets/www/README.md
+SHA1-Digest: vpG6kwhGb21Ut6Y3wqy1AjPFYlM=
+
+Name: assets/www/registers.php
+SHA1-Digest: lTt98lK5e+JtgSvVeAL66ek6B00=
+
+Name: res/xml/config.xml
+SHA1-Digest: +3GazQPKGO1FQPP58Lc4omNs+2Y=
+
+Name: assets/www/jquery.js
+SHA1-Digest: XcvW3j6X4f8ZqZwaXKmWy8FYU+c=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: V29pfkn63ZKvWbMehv1gXLydfEg=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: Lw/SqxqQxDgeX1jWQ7pEzoJ873E=
+
+Name: assets/www/check.php
+SHA1-Digest: pJZOsV8ZS6Zz/DhYHSW/CAbReD8=
+
+Name: assets/www/jquery.validate.min.js
+SHA1-Digest: a4TUgfaCmU0Cy/Ub3nykkE8Q1Dg=
+
+Name: resources.arsc
+SHA1-Digest: F/fM9H0Ol1n+2XpeElVx+J5P7NA=
+
+Name: classes.dex
+SHA1-Digest: eguZeC69hAYXJTVycrD5FYDta/Y=
+
+Name: assets/www/val-final.php
+SHA1-Digest: ZpX960SueMNLMo2Lshka3GCloAo=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: assets/www/cordova.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: mgc5g61tZXuNEBIK7b3aRyUlEsg=
+
+Name: assets/www/jquery-1.9.1.min.js
+SHA1-Digest: 4kqx9d+oC8NdVcbV7Q4e/l7K5XU=
+
+Name: assets/www/additional-methods.min.js
+SHA1-Digest: Sv8PpC1zo9it762E6UNzPWeyr7A=
+
+Name: assets/www/font-awesome.min.css
+SHA1-Digest: b2pmLLbFMex8mj+rT369HbGOGiE=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: 2J9Tvy/YaxPRs/ZafKZe/EsVt/o=
+
+Name: assets/www/index.html
+SHA1-Digest: Nu3orea89iS7F7wwzVHqeDN30oI=
+
